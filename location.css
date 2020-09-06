@@ -1,7 +1,7 @@
 body {
     margin: 0;
     margin-top: 83px;
-    height:100%;
+    font-family: 'Nanum Gothic', sans-serif;
 }
 .wraps {
     position: relative;
@@ -95,7 +95,7 @@ body {
     position:relative;
     display: inline-block;
     box-sizing: border-box;  
-    height: 15px; 
+    height: 20px; 
     overflow: hidden;
     animation: typing 2s steps(20,end) 1;
 }
